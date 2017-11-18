@@ -1,4 +1,4 @@
-# Mouse Sensitivity Setting
+# Mouse sensitivity
 An AHK (AutoHotKey) script that sets the mouse sensitivity setting.
 
 I've found that Windows resets the sensitivity of my mouse or trackpad every time i start my computer. This script sets the sensitivity to my liking 14 out of 20.
